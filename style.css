@@ -10,4 +10,6 @@
     background-color: black;
     text-align: center;
     width: "300px"; height: "300px";
+    float: left;
+    margin: "2%";
 }
